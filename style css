@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: orange
+}
+header{
+    padding: 10px;
+    background-color: #00FFFF;
+    border-radius: 10px;
+    border: 1xp #00FFFF
+}
+footer p{
+    text-align: left;
+    color: orangered;
+    background-color: black;
+    margin: 10xp;
+}
+.p1 {
+    background: orange;
+    color: azure;
+    border-radius: 10px;
+
+
+}
+.v {
+    border-radius: 10px;
+}
