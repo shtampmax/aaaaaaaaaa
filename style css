@@ -1,27 +1,17 @@
-body {
-    font-family: sans-serif;
-    font-size: 20px;
-    color: orange
+html, body {
+    font-size: 16px;
 }
-header{
-    padding: 10px;
-    background-color: #00FFFF;
-    border-radius: 10px;
-    border: 1xp #00FFFF
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightblue;
 }
-footer p{
-    text-align: left;
-    color: orangered;
-    background-color: black;
-    margin: 10xp;
-}
-.p1 {
-    background: orange;
-    color: azure;
-    border-radius: 10px;
-
-
-}
-.v {
-    border-radius: 10px;
+header b {
+    background-color: yellow;
+    padding: 3px ;
+    border: 1px solid black;}
+    header a {
+    background-color: yellow;
+    padding: 3px ;
+    border: 1px solid black;
 }
